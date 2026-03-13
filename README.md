@@ -198,7 +198,7 @@ skillmentor-platform
 
 ## Clone Repository
 
-git clone https://github.com/your-username/skillmentor-platform.git
+git clone https://github.com/thinethwic/skillmentor-platform.git
 
 cd skillmentor-platform
 
